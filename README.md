@@ -15,7 +15,7 @@ The plugin is designed for and tested on **Minecraft 1.21.11** but will likely w
 It is built against Spigot but was tested on Paper.
 
 ## Usage
-1. Download the latest build from [Serble Jenkins](https://serble.com/jenkins/job/Taking%20Turnz/).
+1. Download the latest build from [Serble Jenkins](https://ci.serble.net/job/Taking%20Turnz/).
 2. Place the `.jar` into the plugins folder and start the server.
 3. Have all players join:
 4. Start the game:
