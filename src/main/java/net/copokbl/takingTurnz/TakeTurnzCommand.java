@@ -50,6 +50,7 @@ public class TakeTurnzCommand implements CommandExecutor {
 
         Game game = new Game(turnTime, people);
         game.start();
+        TakingTurnz.getInstance().getGames().add(game);
         return false;
     }
 }

@@ -23,8 +23,6 @@ It is built against Spigot but was tested on Paper.
    2. `/takingturnz <seconds-per-turn> random` - Start with all online players (in a random order)
 
 ## Known Limitations/Issues (Easy PRs)
-- If anyone disconnects during the game it will break. **DO NOT DISCONNECT**.
 - The game config will not persist between server restarts. (Just start it again with the same players)
-- Sleeping in the creative world as it becomes your turn will prevent you from being teleported to the survival world.
 - Agro state of mobs is not preserved between turns (Neutral mobs will not be mad at next person).
 
