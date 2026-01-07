@@ -1,0 +1,11 @@
+name: TakingTurnz
+version: '0.0.1'
+main: net.copokbl.takingTurnz.TakingTurnz
+api-version: '1.21'
+authors: [ CoPokBl ]
+
+commands:
+    takingturnz:
+        description: Start a game of TakingTurnz
+        usage: /takingturnz <turnseconds> <player1> [player2] [player3] ...
+        permission: takingturnz.start
